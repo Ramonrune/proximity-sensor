@@ -8,4 +8,4 @@
 
 ## Circuit
 
-<img src="https://imgur.com/c3u1QSX"/>
+<img src="https://i.imgur.com/c3u1QSX.jpg"/>
