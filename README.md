@@ -3,5 +3,9 @@
 
 ## Required
 -Ultrassonic sensor<br>
--Buzzer
+-Buzzer<br>
 -Arduino Uno
+
+## Circuit
+
+<img src="https://imgur.com/c3u1QSX"/>
