@@ -2,9 +2,10 @@
 
 
 ## Required
--Ultrassonic sensor<br>
+-Ultrassonic sensor HCSR04<br>
 -Buzzer<br>
--Arduino Uno
+-Arduino Uno<br>
+-Protoboard
 
 ## Circuit
 
